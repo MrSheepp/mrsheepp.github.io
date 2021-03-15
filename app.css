@@ -1,0 +1,36 @@
+h1 {text-align: center;
+}
+h3 {text-align: center;}
+
+
+#pdp {
+  display: block;
+margin-left: auto;
+margin-right: auto
+
+}
+body{
+  background-color: #222831 ;
+  color : #ECECEC ;
+}
+
+.wrapper {
+  margin-left: 30vw;
+  margin-right: 30vw;
+}
+
+#description {
+  font-size: 1.618rem
+}
+
+#delimitation {
+  font-size: 2.618rem;
+  color : #413c69;
+}
+
+#liste {
+  font-size: 1.618rem
+}
+ #concernant {
+   font-size: 1.700rem
+ }
