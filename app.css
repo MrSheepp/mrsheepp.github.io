@@ -1,6 +1,16 @@
-h1 {text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+* {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
 }
-h3 {text-align: center;}
+h1 {
+  text-align: center;
+  font-weight: 700;
+}
+h3 {
+  text-align: center;
+  font-weight: 500;
+}
 
 
 #pdp {
@@ -34,3 +44,24 @@ body{
  #concernant {
    font-size: 1.700rem
  }
+
+#contact {
+  font-weight: 400;
+  font-size: 1.700rem
+}
+
+.social-link {
+  text-decoration: none;
+  color: #ececec;
+}
+
+#twitter {
+  color: #00acee;
+}
+#facebook {
+  color: #4267B2
+}
+
+#linkedin {
+  color: #2867B2
+}
